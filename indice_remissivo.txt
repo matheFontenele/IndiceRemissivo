@@ -1,0 +1,8 @@
+Palavra: be - Linhas: [3]
+Palavra: and - Linhas: [5, 6, 8]
+Palavra: by - Linhas: [2, 7, 9]
+Palavra: programs - Linhas: [3]
+Palavra: to - Linhas: [4, 4]
+Palavra: easy - Linhas: [4, 4]
+Palavra: human-engineered - Linhas: []
+Palavra: programming - Linhas: [1, 9]
